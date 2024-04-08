@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chiara!</h1>
 <h3 align="center">From designing dreams in 3D to coding realities, I'm on a journey from pixels to programs. Bologna-born designer turned full stack enthusiast—let's turn ideas into code-crafted wonders!</h3>
 <ul>
-  <li>_ 🌱 I’m currently learning to become a **Full-stack developer through an Epicode course**</li>
-  <li>_ 💬 Ask me about **blender and animation!**</li>
-  <li>_ 📫 How to reach me **martinellichiara94@gmail.com**</li>
-  <li>_ ⚡ Fun fact: **I get a kick out of climbing rocks!**</li>
+  <li> 🌱 I’m currently learning to become a <b>Full-stack developer through an Epicode course</b></li>
+  <li> 💬 Ask me about <b>blender and animation!</b></li>
+  <li> 📫 How to reach me <a href="#">martinellichiara94@gmail.com</a></li>
+  <li> ⚡ Fun fact: **I get a kick out of climbing rocks!**</li>
 </ul>
 
 <div> <a href="https://github.com/chiaramarti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
