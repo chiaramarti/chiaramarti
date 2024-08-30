@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👽, I'm Chiara!</h1>
+<h1 align="center">Hi 👋, I'm Chiara!</h1>
 <h3 align="center">From designing dreams in 3D to coding realities, I'm on a journey from pixels to programs. Bologna-born designer turned full stack enthusiast—let's turn ideas into code-crafted wonders!</h3>
 <ul>
   <li> ❣️ Now working as a <b>Full-stack developer at Abifin!</b></li>
