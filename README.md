@@ -2,7 +2,6 @@
 <h3 align="center">From designing dreams in 3D to coding realities, I'm on a journey from pixels to programs. Bologna-born designer turned full stack enthusiast - let's turn ideas into code-crafted wonders!</h3>
 <ul>
   <li> ❣️ Now working as a <b>Full-stack developer at AxyonAI!</b></li>
-  <li> 🌱 Completed my <b>Epicode course as a Full-stack</b>.</li>
   <li> 💬 Ask me about <b>blender and animation!</b></li>
   <li> 📫 How to reach me <a href="#">martinellichiara94@gmail.com</a></li>
   <li> ⚡ Fun fact: <b>I get a kick out of climbing rocks!</b></li>
